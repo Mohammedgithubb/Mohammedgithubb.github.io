@@ -1135,13 +1135,7 @@
   content: "\f165";
 }
 .icon-x:before {
-  content: "\e900";
-}
-.icon-twitter:before {
-  content: "\e900";
-}
-.icon-x1:before {
-  content: "\e901";
+  content: "\e90";
 }
 .icon-xing:before {
   content: "\f168";
