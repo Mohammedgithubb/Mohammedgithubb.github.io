@@ -1134,9 +1134,9 @@
 .icon-thumbs-down:before {
   content: "\f165";
 }
-.icon-x-square:before {
+/* .icon-x-square:before {
   content: "\f166"; /* Replace with actual unicode */
-}
+} */
 .icon-x:before {
   content: "\e900"; /* Replace with actual unicode */
 }
@@ -1146,9 +1146,9 @@
 .icon-xing-square:before {
   content: "\f169";
 }
-.icon-x-play:before {
+/* .icon-x-play:before {
   content: "\f16a"; /* Replace with actual unicode */
-}
+} */
 .icon-dropbox:before {
   content: "\f16b";
 }
