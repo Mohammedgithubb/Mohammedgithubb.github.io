@@ -1138,7 +1138,7 @@
   content: "\f166"; /* Replace with actual unicode */
 }
 .icon-x:before {
-  content: "\eXXX"; /* Replace with actual unicode */
+  content: "\e900"; /* Replace with actual unicode */
 }
 .icon-xing:before {
   content: "\f168";
@@ -4905,9 +4905,9 @@
 .icon-wrap_text:before {
   content: "\e25b";
 }
-.icon-x_searched_for:before {
+/* .icon-x_searched_for:before {
   content: "\e8fa"; /* Replace with actual unicode for X if needed */
-}
+} */
 .icon-zoom_in:before {
   content: "\e8ff";
 }
