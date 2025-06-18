@@ -1134,11 +1134,14 @@
 .icon-thumbs-down:before {
   content: "\f165";
 }
-/* .icon-x-square:before {
-  content: "\f166"; /* Replace with actual unicode */
-} */
 .icon-x:before {
-  content: "\e901"; /* Replace with actual unicode */
+  content: "\e900";
+}
+.icon-twitter:before {
+  content: "\e900";
+}
+.icon-x1:before {
+  content: "\e901";
 }
 .icon-xing:before {
   content: "\f168";
