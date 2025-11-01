@@ -394,7 +394,10 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto; }
+  height: auto;
+  position: absolute;
+  top: -170px;
+  left: -30px;}
 
 .img-thumbnail {
   padding: 0.25rem;
